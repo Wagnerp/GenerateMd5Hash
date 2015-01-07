@@ -1,0 +1,25 @@
+# Exclude #
+###########
+
+
+### Folders
+*.config
+*.manifest
+obj/
+
+### Binaries
+*.dat
+*.exe
+*.dll
+
+### VS crap
+*.pdb
+
+### ReSharper settings
+*.DotSettings.user
+
+
+# Include #
+###########
+!PluginInterface.dll
+!PredefinedTypes.dll
